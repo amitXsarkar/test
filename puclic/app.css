@@ -1,0 +1,86 @@
+body {
+    background-image: linear-gradient(-90deg, rgb(246, 76, 8),rgb(246, 183, 8), rgba(225, 0, 255, 0.794));
+}
+
+#commentbox {
+    background: rgba(0,0,0,0.3);
+    padding: 40px 20px 20px 20px;
+    margin: 0 0 60px 0;
+}
+
+#display-inline {
+    margin: -20px 5px 0 0;
+}
+
+.list-group {
+    margin: 40px auto;
+}
+
+#delete-button {
+    width: 100%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+.container {
+    text-align: center;
+}
+
+#newh1 {
+    margin:50px auto;
+}
+.myform {
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.jumbotron {
+    background: rgba(5, 0, 0, 0.5);
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+
+.thumbnail img {
+    height:90%;
+    width:90%;
+    margin: 10px 10px;
+}
+#indeximg {
+    height:200px;
+    width:90%;
+    margin: 10px 10px;
+}
+.thumbnail {
+    background: rgb(223, 218, 218);
+    box-shadow: 0 0 10px rgba(0,0,0,0.9);
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+.thumbnail a{
+    margin:10px auto;
+    width: 90%;
+}
+#showimg {
+    height:400px;
+    margin: 40px auto;
+}
+.caption h4{
+    margin: 5px auto;
+    padding: 10px auto;
+    text-align: center;
+}
+
+#showcont h1{
+    margin: 10px auto;
+    text-transform: uppercase;
+    color: rgba(92, 11, 11, 0.7);
+    font-weight: bolder;
+}
+#showcont img {
+    margin: 10px auto;
+}
